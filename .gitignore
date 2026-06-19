@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+PRD.md
+Summer2026-SEG3125-Assignment3-MemoryGame.pdf
+REPORT.md
